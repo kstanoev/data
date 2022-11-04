@@ -1,0 +1,344 @@
+Antoan is a modest and unassuming person. He has shown a lot of potential even when the intensive and demanding program put a lot of stress on his progress.
+
+From technical perspective, Antoan has managed to acquire the fundamental programming skills. He is more comfortable working with familiar concepts and will steadily increase his coding skills.
+
+In terms of teamwork, Antoan is not the one to take upon the leadership role and works quite autonomously in his specialized area. He approaches his assignments with motivation and interest.
+
+He identifies problems, and enjoys solving them, particularly within own area of expertise. Antoan is most effective and productive when working within the field of own specialty and experience, and prefers to stick to the proven way.
+
+Antonio is a helpful, patient, and stable person. He is sympathetic, supportive and derives satisfaction from helping others. An individual, who enjoys feeling like a part of a secure team.
+
+Antonio's technical skills are around the group’s average. He learns and understands technical material at an even, steady pace. His mentor says Antonio has previous technical knowledge, which helps him find solutions to problems in his colleagues' work. 
+
+When working in a team, Antonio is unassuming, friendly and pleasant in general contact. His peers describe Antonio as a very balanced, calm and easy-going person who has very good ideas.
+
+Antonio is careful, and will take the time required to follow the established process, examine different angles, and explore enough to ensure few, if any, surprises afterward. He derives satisfaction from helping others and likes to feel part of a secure team.
+
+Boris has demonstrated a high level of dedication throughout the program. He is very positive and supportive and is always ready to help others.
+
+Boris has good technical skills. He learns and understands technical material at an even, steady pace. His mentor says he proactively asks questions and participates energetically and with interest in discussions.
+
+In teamwork, Boris is a friendly and reliable team player. His peers refer to him as a person who is always ready to support others and easily shares his knowledge. They praised Boris for his sense of humor and his ability to handle difficult situations.
+
+Fairly easygoing, Boris works steadily and relatively unhurried and he is most comfortable working within stable organizations with established processes. He derives satisfaction from helping others and likes to feel part of a secure team.
+
+Boris is a self-disciplined and conscientious person. He has achieved great progress throughout the program from a technical perspective.
+
+Boris has demonstrated good technical skills and was one of the students who has shown the greatest and most constant growth. His peers say that Boris is very skillful in noticing incorrect code or other problematic areas. 
+
+In regards to teamwork, he is sympathetic, supportive, and wants to help whenever possible. His peers described him as a very cooperative individual, who shares good ideas and knows how to work under pressure.
+
+Boris has a sense of urgency and works at a faster-than-average pace. He is factual, detailed and impatient to get on with the task at hand. Boris has the drive to get things done right and in accordance with established standards of accuracy and quality.
+
+Bozhidar has proven to be persistent, self-motivated, and determined in pursuing his goal to graduate from Telerik Academy. He has demonstrated great progress since the beginning of the Alpha program and proved his ambition.
+
+He maintained very good technical performance. His mentor says Bozhidar is very diligent and actively participates in the discussions, he works well with the group and asks questions regularly.
+
+When working in a group, Bozhidar is a team player who is always ready to take responsibility and to support others. His peers praised him for his great time management skills and that he is open to new ideas and perspectives. 
+
+Bozhidar is a very conscientious and disciplined person. He strives to produce results that precisely meet the established goals. He derives satisfaction from doing good work for the company or the team, and values recognition of his dedication and specialized skill.
+
+Dejan is a self-disciplined, conscientious person. He has demonstrated great progress since the beginning of the Alpha program and proved to be an ambitious and reliable student.
+
+Dejan used his previous experience in the field, as well as his curiosity to achieve good levels of technical performance. His peers have remarked on his curiosity and debugging skills. 
+
+When working in a group, Dejan is a supportive team member who is ready to share his knowledge. His mentor described Dejan as an active learner, who is always ready to find additional information. He knows how to ask relevant questions and how to communicate effectively.
+
+A conservative and analytical person who respects traditional organizational values. Dejan is diligent and he will drive hard to get things done well and quickly. He tends to be factual and sincere, impatient to get on with the task at hand. His primary focus is the efficient completion of the task and solving the problems on the way.
+
+Dimitar is an ambitious, driven and enthusiastic learner. He showed great commitment to the program and his projects. During the training, he kept on improving, and his effort and dedication were noticeable.
+
+Dimitar has good technical skills and he has shown excellent progress, especially in Data Structures & Algorithms. His mentor describes Dimitar as a goal-oriented and motivated learner, who has logical thinking and excellent empathetic skills.
+
+In regards to teamwork, Dimitar is outgoing and friendly, he enjoys working with others. His peers say Dimitar contributed with overall good coding skills and good ideas during project discussions, respected his deadlines and actively participated in discussions, overall working with him was great on every aspect.
+
+His drive is directed at getting the important things done. Competitive, ambitious and venturesome, Dimitar has a strong sense of urgency, can react and adjust quickly to changing conditions, generate novel ideas, and deal with them swiftly.
+
+Dimo is a patient, relaxed and very motivated learner. At the beginning of the Alpha program, he encountered some challenges with the learning process, yet he was able to meet the program's requirements thanks to his commitment and growth mindset. 
+
+His technical skills are around the average for the group. Dimo has adequate self-reflection skills and avoids complaining. He tries to deal with the challenges that lay ahead.
+
+When working with others, he is a positive and reliable team player. An active listener, who is good at discussions and working cooperatively. His mentor says Dimo learns quickly and works well with others.
+
+Dimo may easily adapt from one situation to the next but may prefer the safety of a stable environment over the pursuit of a more risky set of interests. Working under pressure is usually not a problem, yet he generally prefers a degree of predictability.
+
+Dijan is an accommodating and responsible person. He is talented, caring, dedicated, and focused on his pursuits.
+
+Dijan has good technical skills. Due to some personal problems, he was not able to demonstrate his best abilities in the Web module. He was able to catch up thanks to his growth mindset and proactiveness.
+
+During teamwork, Dijan is cooperative and works towards the common goal. He is helpful, patient, but also he can tackle tasks alone. His teammates described him as a person who is responsible team player, with excellent ideas. 
+
+Fairly easygoing, Dijan works at a steady, relatively unhurried pace and is most comfortable working within stable organizations with established processes. He will focus on the details of the work and will handle them with somewhat better than average accuracy
+
+Dorothea is an ambitious, easy-going and committed student. She is a very conscientious and disciplined person who achieved incredible progress throughout the program.
+
+In technical terms, Dorothea is one of the top performers in the cohort. She always tries to deliver more than expected; for example, she made a very impressive UI of her web project. Her mentor says she actively participates in discussions, gives ideas and suggestions, helps others, and is familiar with the theoretical side.
+
+When working with others, she is unobtrusive and quiet. Her peers described Dorothea as extremely organized and disciplined. She has substantial knowledge and skills that she shares with the rest of the team. 
+
+Dorothea has a sense of urgency, can react and adjust quickly to changing conditions. In familiar social and work situations in which she feels comfortable, she is agreeable, helpful, respectful, and very conscious of her responsibilities.
+
+Ekaterina is a resilient and dependable student. Outgoing and friendly, she enjoys working with others. During the Alpha program, she has been a student who is not afraid to ask relevant questions and proactively sought help whenever needed. 
+
+She has good technical skills and knows how to take on challenges and keep improving. Her teammate says Ekaterina is very diligent and always double-checks the code in order to be sure that everything is clean and well formatted. 
+
+During teamwork projects, Ekaterina showed great managing and collaboration skills. His teammates appreciate that she has a positive mindset and willingness to help anytime. Her unselfish and uncritical interest in others is helpful in developing and maintaining personal relationships.
+
+Ekaterina is a stable person who functions best when working in a familiar environment among familiar people. She can be very effective in situations that require frequent contact with others, communicating and collaborating, and understanding different viewpoints.
+
+Elitsa is a communicative, disciplined and motivated learner. During the program, she showed excellent collaborative skills and a growth mindset.
+
+In terms of technical ability, Elitsa handles the material very well and learns in great depth and detail. Her mentor says she learns quickly and can achieve great results with focus and more self-confidence. 
+
+When working in a team, she acted collaboratively. Elitsa is an engaging, stimulating communicator, capable of motivating others. Her peers say she is an emotionally intelligent person, who has great critical thinking skills. 
+
+Elitsa is unselfish, motivated by a strong sense of duty. Derives satisfaction from doing good work for the company or the team. She is agreeable, helpful, respectful, and very conscious of her responsibilities.
+
+Eliza is a very ambitious, motivated and quick learner. Shy at first, she needs some time to get familiar with a new environment and build the confidence to express herself.
+ 
+Eliza has good technical skills. She avoids complaining and tries to deal with the challenges she encounters on her own, using her ability to handle problems calmly.
+
+In terms of teamwork, she is collaborative, but sometimes struggles to communicate openly. In team projects alike, Eliza will usually start working when she has gathered enough confidence in her ability with the new programming technology.
+
+Eliza is more concerned with the achievement of goals than with the details of how things get done. Her drive is directed at getting the important things done. Competitive, ambitious and venturesome, she responds positively and actively to challenge and pressure.
+
+Georgi is a disciplined and consistent learner. During the program he was diligent and persistent in his approach to the learning process.
+
+From a technical perspective, Georgi was strongly consistent throughout the span of the program. He met all technical requirements, and often exceeded them.
+
+In his teamwork assignments, Georgi has been praised for his ability to communicate and he helped others to organize their work. Self-discipline, sense of duty, and respect for authority and tradition are strong qualities in Georgi, who takes responsibilities very seriously.
+
+Georgi is a very conscientious person, particularly attentive to, careful of, and accurate with the details involved in the job. Identifies problems, and enjoys solving them, particularly within own area of expertise.
+
+Iliya is a sincere and cautious person. He is a stable and helpful student, always willing to cooperate and keep an open mind towards other people’s solutions.
+
+Iliya has sound technical skills. He is a lifelong learner, striving for knowledge and able to grasp new concepts quickly. His mentor says Iliya spends a lot of time preparing for lectures, reflects on different solutions, and is good at making logical connections.
+
+In terms of teamwork, Iliya is ready to take responsibility and relies on good team communication. His peers say Iliya actively participates in all meetings and discussions, explains theory questions in detail and helps others in the group.
+
+Iliya takes responsibilities very seriously, to the extent of worrying a good deal about them. He can be relied on to make proven, well thought-out, solid improvements in areas that he understands well.
+
+Ivan is a very positive, proactive and communicative person. During the Alpha program, he always strived to learn and go beyond himself in both personal and team-oriented tasks.
+
+In terms of technical skills, Ivan has good knowledge, which he very adequately applies. His mentor says Ivan has a strong will to learn new things and to expand his knowledge in additional programming topics.
+
+Dealing with people, Ivan is frank and outspoken. His peers say Ivan has excellent cooperation skills and he is always ready to take the initiative. He has strong ideas and opinions and expresses them with confidence and certainty.
+
+In work terms, Ivan is patient and persevering, works at a steady, unhurried pace. Being more conceptual than detail-oriented, Ivan is casual in working with details, which are not vital to the job.
+
+Ivaylo is a very persistent and ambitious person. He is rather unobtrusive and quiet, friendly and pleasant with people he knows well. He has shown great commitment to the program and desire to succeed. 
+
+Ivaylo’s technical skills are around the group’s average. His mentor shares that Ivaylo likes to look for additional materials and is eager to learn new things.
+
+When working with others, Ivaylo is a supportive team member, ready to share his creative ideas. His peers refer to him as someone who takes responsibility and suggests solutions to any task even when the whole team feels lost.
+
+Ivaylo is unselfish, motivated by a strong sense of duty. Derives satisfaction from doing good work for the company or the team. In rolling out new changes, Ivaylo is very tactical, thinking through exactly how it should be done, creating a complete plan, and having solutions to possible pitfalls.
+
+Kaloyan is an unassuming, committed, and genuine person who treats all with a professional attitude. Throughout the Alpha program, he proved himself as someone who identifies problems, and enjoys solving them, while proactively seeking help, should he get stuck.
+
+During the training process, Kaloyan kept a consistent performance, always delivering on time. He showed improvement after each module. Going forward, he would reach his full potential through mentoring in a professional context.
+
+His peers have shared that working with Kaloyan is an overall positive and pleasant experience. Kaloyan generally keeps his communications formal and professional. 
+
+In general, Kaloyan is a cautious and careful person, respectful of company authority and traditions, and a specialist who avoids risk and uncertainty by taking care to do things properly, working within the company’s formal organizational structure.
+
+Konstantin is an honest, organized, and collaborative person. He has demonstrated consistently very good technical performance throughout the entire program. His positive attitude and his growth mindset were crucial for his success in the Academy. 
+
+Konstantin has strong technical skills and motivation for constant improvement. He is persistent and open to feedback, with excellent planning skills, and a sense of priority. These are some of the factors that helped his team deliver an excellent project during the third module of the program.
+
+His peers have praised Konstantin highly for his dedication, work ethic, and delivering always on time. He is not only a team player but one that brings the people of the team closer together. 
+
+Konstantin is a serious, introspective person and an analytical and disciplined thinker. Careful, thorough, and very focused on their responsibilities. A conscientious person, his approach to the work is systematic, methodical, and well organized, based on a thorough knowledge of, and respect for “the book”.
+
+Marta is a hard-working, collaborative person, who is always motivated to learn and grow as a professional. She has shown great perseverance and motivation to overcome obstacles and adapt to the intensity of the program.
+
+In terms of learning approach and working habits, Marta has proven to be a consistent learner who is proactive, asks questions, and strives to thoroughly grasp the information she is confronted with. She is very responsible and patient and will work tirelessly until she finishes everything required of her. 
+
+Her peers have reported that working with Marta is an overall positive and pleasant experience, as well as always being available to help and share information. Marta generally keeps her communications formal and professional.
+
+Eager to be sure that things are done exactly right, Marta will follow up carefully and closely if the work requires delegation of details to others. When it is necessary to be critical, she will try to do that in a constructive, supportive manner.
+
+Martin is a modest and unassuming person, with reserved, yet accommodating behavior. He expresses himself sincerely and factually and is, in general, rather cautious and conservative in his style.
+
+Martin has a good technical understanding of the theory and practical experience. He managed to build upon the foundation from previous modules and has created good applications.
+
+His peers have reported that he always worked shoulder to shoulder with them, and was always on par with the tasks at hand. They also said that working with Martin is generally a positive experience.
+
+Martin is friendly and pleasant with people he knows well. In familiar social and work situations in which he feels comfortable, he is agreeable, helpful, respectful, and very conscious of his responsibilities.
+
+Martin studied steadily and thoroughly the material in the program. He had his fair share of difficulties and challenges but managed to maintain his pace and never backed down.
+
+Martin's technical results were good and stable. He managed to build upon the foundation of previous modules and created nice applications with his peers.
+
+As a teammate, Martin is patient and reliable. He is easy to work with and sometimes tends to be quiet. A generally friendly person who enjoys helping others. 
+
+Given sufficient experience, Martin will produce work of high quality, giving close attention to the accuracy of details. He is stable and dependable and has sufficient patience to do work of a repetitive nature. Martin will benefit from well-defined processes and procedures.
+
+Mehmed is a cooperative and flexible person. He uses his high self-awareness as a tool for self-improvement. During the program, he maintained a positive attitude and a growth mindset.
+
+His technical performance was good across the modules and projects. In the beginning he had some difficulties with OOP material. Afterward, he managed to attain consistent good results. Given proper guidance and time, he will produce excellent results.
+
+In social terms, Mehmed is tolerant, easy-going, and uncritical in getting along with others. His peers refer to him as а team player who is supportive and always ready to seek additional information to find solutions. He is diligent and detailed-oriented, and he does the necessary in order to complete everything in time.
+
+In work terms, Mehmed derives satisfaction from helping others and likes to feel part of a secure team. If he is responsible for establishing the process, he will do so in a thoughtful, methodical manner, paying close attention to details and time-honored successes.  
+
+In general, Melis is an exceptionally positive, easy-going, and cheerful person. She is thoughtful, disciplined, and particularly attentive to the details involved in the job. She possesses immense motivation and has displayed a great deal of commitment to the Alpha program.
+
+Throughout the program, Melis' results were very good, but never excellent. Yet, in the last couple of months of the program, it seems that everything “clicked” for her. She managed to dive into the deeper parts of the subject at hand, showing a great understanding of the topic. Melis and her teammate successfully implemented many detail-oriented functions, which boosted their projects to a greater quality.
+
+Melis works well in a team. All her teammates have reported a pleasant, collaborative working environment, where no questions were left unanswered. Tasks were completed on time with no personal difficulties whatsoever.
+
+In general terms, Melis is an ambitious and driven person who is motivated by the opportunity for advancement to levels of responsibility where she can use their skills as a team builder, motivator, and mover.
+
+Mihail is a hardworking, disciplined, and positive person. His proactive nature helps him seek and respond well to feedback, using it as a tool for self-improvement.
+
+In terms of technical skills, Mihail has shown a very good understanding of the different concepts and technologies studied during the program. He tends to explore different solutions to a given problem and never misses the chance to learn something new.
+
+In a teamwork environment, Mihail is cooperative and works towards common goals. His peers described him as a respectful team player, who is always ready to share his solutions to the task at hand. His mentor praised Stefan for his excellent communication skills and growth mindset. 
+
+In social terms, Mihail is unassuming, friendly, and pleasant in general contact. A patient, focused, and willing listener, particularly with people he knows well and with whom he feels at ease. Sympathetic, supportive, and wants to help whenever possible.
+
+Neda is a cooperative, easy-going, and agreeable person who has proven she can get along with every single team member around her. She is willing to think outside of the box and can suggest innovative ideas that help the overall team performance. 
+
+Neda possesses good technical skills and there is no doubt she will deepen them further, especially when given the opportunity to expand her circle and get acquainted with more intriguing projects in the field. She is a person who tends to work as much as needed to accomplish a task and does not settle until she has fully grasped the problem she is dealing with. 
+
+In every team where she participated, Neda has shown a strict dedication to common success and has displayed character, seeking a healthy balance for every situation. She has proven herself to be a responsible individual both in her work and relationships with her teammates. 
+
+Cheerful and upbeat, Neda makes friends easily and enjoys doing things for people. Her friendly, enthusiastic style makes others feel welcome. Strongly persuasive and has complete confidence in their ability to gain others’ trust and buy-in.
+
+Nikolay is a decisive, independent self-starter who can adjust quickly to changing conditions. Throughout the Alpha program, he has shown his ability to handle different types of problems and to connect with a diversity of people.
+
+Nikolay started the Alpha program with average technical results. Yet, his consistency in learning helped him deepen his understanding of the basics and show significant improvement. His mentor highlighted Nikolay's positive attitude and logical thinking.
+
+When working with others, Nikolay is outgoing and poised. He talks briskly, with assurance and conviction, and is a stimulating influence on others, while being direct, determined, and flexible. Nikolay is persistent in defending his personal judgments and strives to prove in action the value of his ideas for change.
+
+Nikolay will thrive in an environment that allows him to focus on strategies involved in reaching goals rather than specific or detailed tactics. He is a venturesome individual who derives satisfaction from generating novel ideas and getting the important things done.
+
+Okan is a results-oriented person who pays a lot of attention to details, accuracy, and quality. He chooses his approach to any work, based on a thorough analysis and detailed knowledge of all pertinent facts.
+
+Okan has strong technical skills. His drive for improvement helped him achieve very good results during the program.  Given enough time and mentoring, he can become an excellent programmer, specializing in a certain field, that he finds great interest in.
+
+In terms of teamwork, Okan is more technically than socially-oriented. He has confidence in technical/professional knowledge and the ability to get things done correctly. Okan's teammates appreciate his proactivity and openness to help others.
+
+Okan is a stable person who functions best when working in a familiar environment among familiar people and would be less effective if required to work in frequently changing situations or conditions. While a fairly flexible person, he will require time and cooperation to digest, practice, and adapt to change or new situations.
+
+Pavel is an adaptive individual with good problem-solving skills. He has the potential to acquire various talents, so he is likely to develop a diverse yet elaborate specter of technical specialism.
+
+In terms of technical skills, Pavel has a good understanding of the theory and practical experience. He is not afraid to ask questions and put in additional effort when necessary.
+
+As a teammate, Pavel is calm and easy to get along with. He can both take the lead or allow others to assume control provided the task gets executed correctly. According to his peers, Pavel offers help to others when they face difficulty.
+
+In working terms, Pavel can work under pressure and adapt from one situation to the next. However, he will need a certain degree of predictability and may prefer the safety of a stable environment over the pursuit of a riskier set of interests. 
+
+Petya is unselfish and motivated by a strong sense of duty. During the Alpha program, she demonstrated great resilience and the ability to push herself towards the goal of becoming better.
+
+Petya kept going even when tasks were hard, and the deadlines were close. She had a lot of challenges in the program. Nevertheless, she faced them and overcame them.
+
+As a teammate, Petya works best when there is a clear goal and separations of the tasks. Otherwise, she might get a bit unsure if and how she should interfere with the work of others.
+
+In social terms, Petya is rather unobtrusive and quiet, friendly and pleasant with people she knows well. She is reserved and polite in meeting new people. In familiar social and work situations in which she feels comfortable, she is agreeable, helpful, respectful, and very conscious of her responsibilities.
+
+Raya is a friendly and easily approachable person. Throughout the whole program, she was highly active in asking questions, discussions, and activities. She is very thoughtful of her actions and always aims to do the best work possible.
+
+Through a genuine interest in programming, Raya has acquired a lot of knowledge during her time in the Academy. Given enough time and mentoring, she can become an excellent programmer, specializing in a certain field, that she finds great interest in.
+
+In terms of teamwork, Raya’s peers spoke highly of her. She is a friendly and welcoming person, ready to help and assist in any way she can. Raya gets along easily with a wide variety of people. She is an effective communicator, able to stimulate and motivate others while being aware of and responsive to their needs and concerns. 
+
+Raya works at a faster-than-average pace. Her sense of urgency and sense of duty combine to make someone who is actively concerned about the timeliness, as well as the correctness, of any work for which she is held responsible. Raya is a cautious and careful specialist, respectful of organizational authority, structure, and traditions. When it is necessary to be critical, she will try to do that in a constructive, supportive manner.
+
+Silvia is consistent, diligent, and dedicated to pursuing her goals. Although at first sight, she might come off as private and a little shy, she has proven to be a stellar team player that everyone else in the group counts on for help and support. 
+
+Silvia has excellent technical results. A person with great learning potential, she has shown a in-depth understanding of the theory. Her mentor described her as an extremely curious person who likes to do own research and never gives up. 
+
+When working with others, she is focused, attentive and respectful. Her teammates described Silvia as a team player, who makes work processes calm and straightforward. She knows how to plan well and often proactively shares her knowledge to support others.
+
+Silvia is an ingenious and innovative problem-solver and troubleshooter. She has an actively inquiring mind, a lively interest in the technical aspects of the work. She will drive hard to get things done well and quickly.
+
+Slavcho is a very ambitious and motivated student. He likes to take the initiative, and during the Alpha program, he appeared as an individualist who likes to dictate the pace of his team.
+
+Slavcho has good technical skills and knows how to plan well and prioritize his tasks. He proactively seeks feedback and has demonstrated a growth mindset. His mentor noticed that Slavcho is a dedicated and enthusiastic learner who is ready to give more in order to succeed.
+
+In terms of teamwork, Slavcho is collaborative, but sometimes struggles to adapt his working pace. He is agreeable, respectful, and very conscious of his responsibilities. One of his peers described Slavcho as a team player who is approaching problems with sense humor and positive outlook, a colleague who is always ready to help.  
+
+In work setting, Slavcho is stable, dependable and consistent in his actions. He believes in having, and following, well-defined processes and procedures. In rolling out new changes, Slavcho will be very tactical, thinking through exactly how it should be done, creating a complete plan, and having solutions to possible pitfalls.
+
+Stanislav is a dedicated, friendly, and honest person. Despite the difficulties he faced, he did his best to adjust quickly and show the necessary resilience to graduate successfully. 
+
+In term of technical skills, Stanislav has shown very good understanding of the different concepts and technologies studied during the program. He tends to explore different solutions to a given problem and never misses on the chance to learn something new. 
+
+When working with others, Stanislav is focused and attentive. Congenial, and outgoing, he can get along well with just about anybody. His teammates praise him for his friendly attitude, and for his persistence and emotional support. 
+
+Stanislav has the kind of patience required to focus steadily on a consistent process over long periods of time and work which should primarily involve contact and communication with people rather than precise handling of details. He is an unselfish person who derives satisfaction from doing things for others and feels most comfortable when feeling accepted by them and respected for his helpful nature.
+
+Stiliyan is an outgoing, talkative, very friendly individual, a lively and stimulating communicator. A flexible person who is poised, active, and responsive in social situations.
+
+Stiliyan showed good technical skills. He needed some time to sort the terminology and concepts of the material but invested the needed time to overcome this challenge and achieve good final results.
+
+His teammates say that they can rely on his work and helping hand when needed. During their projects, Stiliyan was active in the discussions and implementations. 
+
+Stiliyan is relatively unconcerned about details and often inclined to consider them unimportant, his interest in details and specifics which are not crucial to success is sometimes casual. He would benefit from a team where he can develop his attention to detail while providing a cheerful and friendly attitude to the atmosphere.
+
+Stoyan is a patient and diligent student. He is respectful of established processes and standards and will do his best to ensure high quality results.
+
+His technical knowledge is good, and he showed a solid understanding of all key concepts taught during the Alpha program. His results were consistent, especially during the defense of his final project, where he did excellently.
+
+Stoyan’s teammates share that they are happy to have had the chance to work with him. They managed to form a good partnership and deliver on time, not compromising quality. Stoyan’s teammates suggest he ought to be more confident in his skills and knowledge.
+
+In social terms, Stoyan is unassuming, easygoing and approachable. He works at a steady pace and will feel most comfortable in a stable organization with established processes.
+
+Stoyan is an unassuming, committed, and genuine person who gets along with others easily. Throughout the Alpha program, he proved himself as someone who identifies problems, and enjoys solving them. He knows how to seek help, should he get stuck.
+
+During the training, Stoyan kept a consistent performance, always delivering on time. He showed improvement after each module and his results were among the best ones. Going forward, he would reach his full potential through professional mentoring.
+
+When it comes to group projects, him and his teammates achieved a great balance and found a way to communicate effectively. They always delivered on time and their projects were executed with attention to detail.
+
+Stoyan is easygoing and cheerful. He works a steady, relative unhurried pace and is most comfortable working within stable organizations with established processes. In making decisions, Stoyan is careful and will take the time required to follow the established process.
+
+Subi is a quiet and friendly person, who can react and adjust quickly to changing conditions. Diligent in every task, he can be counted on to get the job done on time.
+
+His technical knowledge is good, and he showed a solid understanding of all key concepts taught during the program. Sometimes he needs additional time to grasp a new concept, but with the right guidance and effective feedback, he can achieve great results.
+
+When working in a team and dealing with people, Subi is honest and trustworthy. His teammates speak highly of him, saying that he is reliable and supportive during difficult times. After the first team project he was advised to be more proactive in seeking help: a suggestion he readily heeded and addressed by their latest project.
+
+Subi sets high standards of achievement, both personally and for the teams he is part of. In terms of working and learning habits he can be quick to make decisions without needing any extensive research. He has a hands-on approach and is not afraid if he does not have the full picture yet.
+
+Teodor is a thoughtful and disciplined student who pays attention to details and enjoys solving problems within his area of expertise. During the Alpha program, he has shown great focus, perseverance, and dedication.
+
+In terms of technical skills, Teodor has achieved excellent results on a consistent basis. He can work autonomously, as well as seek specialized knowledge from proven sources. Teodor’s mentor says he actively participated in group meetings, regularly asking questions, and sharing his point of view. 
+
+When working in a team, Teodor expresses himself sincerely and factually. According to his teammates, Teodor aims at high-quality results, yet, at the same time, he is eager to assist others. They appreciate most his ability to stay calm under pressure and his sense of humor about challenges he faces. 
+
+In a work environment, Teodor works at a steady, even pace, leveraging his background for the betterment of the team and the organization. He plans ahead, double checks, and follows up carefully on decisions and actions. Teodor has a better-than-average aptitude for work that is analytical or technical in nature. He will be most effective and productive when given uninterrupted blocks of time and the chance to develop a high level of specialized expertise.
+
+Teodor is an honest, organized, and collaborative person. He has demonstrated consistently good technical performance throughout the entire program. His positive attitude and his growth mindset were crucial for his success in the Academy. 
+
+Teodor has strong technical skills and motivation for constant improvement. He is persistent and open to feedback, with excellent planning skills, and a sense of priority. These are some of the factors that helped his team deliver an excellent project during the third module of the program.
+
+Teodor’s teammates highlight his organizational skills. He stands out with the ability to concentrate on the tasks at hand, while still helping others when they are facing difficulties.
+
+Teodor has high self-awareness and knows very well where he can improve. He takes a great deal of effort in improving his communication skills and made tremendous advancements in that regard. He is a good fit for any team, but he can also work independently when needed. He is extremely motivated and manages to overcome challenges with consistency and diligence. He is also disciplined and accurate with the details involved in the job.
+
+Tsvetan is a warm, committed, and genuine person who easily gets on with others. Throughout the Alpha program, he proved himself as someone who identifies problems, and enjoys solving them, while proactively seeking help, should he get stuck.
+
+Throughout the program, Tsvetan kept a consistent performance, always delivering on time. He showed improvement after each module. While his technical skills are good, he does need to take the time and pay a little more attention to the theoretical side of things.
+
+When it comes to teamwork, his teammates find working with Tsvetan pleasant and fruitful. One area that can be improved, however, is his communication. He tends to try and tackle an issue alone, no matter how difficult it is, and not seek help.
+
+Tsvetan is easygoing, works at a steady and relatively unhurried pace, and is most comfortable working within stable organizations with established processes. If he faces change in the work and responsibility, he will take time to learn the new work and responsibilities thoroughly, before acting.
+
+Vladimir displayed a can-do attitude in good and bad times throughout the entire learning experience in the Alpha program. He persisted in achieving his goal to become a programmer. He learned from all challenges that he faced working on the projects and assignments.
+
+Vladimir needed a bit more time to absorb the knowledge from our intensive curriculum. Even though the pace was often too steep for him, he did continue to make steps and managed to show satisfactory results. Vladimir would benefit from an organization with a clear employee development path and established mentoring and onboarding procedures.
+
+Vladimir is persistent and tries to contribute on par with his buddies in his projects. He sometimes needs more time to study a topic before starting to implement it in practice. His mentors say that if he keeps his desire to learn and develop, he will succeed.
+
+Vladimir is undaunted by criticisms or failures. He is very determined and persistent and once a goal is set, he’ll generally push hard to reach it, regardless of the goal’s popularity with others. He has a creative and nonconformist personality.
+
+Yuliya is a very thoughtful, conscientious, and disciplined person. She will depend upon her own experience, professional training, or management guidance to provide the structure needed for her work.
+
+Yuliya has demonstrated good technical skills and an understanding of various technologies and concepts covered throughout the program. Thanks to her patience and commitment, she has performed better with each day at the Academy and will continue to improve significantly. She tends to try to solve all problems on her own, but she has improved in reaching out to teammates for help.
+
+When working with others, Yuliya is mostly task-oriented. She usually plans ahead, double checks, and follows up carefully on decisions and actions. In social terms, she is rather quiet and unobtrusive but always friendly and pleasant with people she knows well.
+
+Given sufficient experience, Yuliya will produce work of high quality, giving close attention to the accuracy of details. She is stable and dependable, consistent in her actions, and, if necessary, she has sufficient patience to do work of a repetitive nature. Yuliya will benefit greatly from mentorship, especially letting her know that she can confidently reach out to teammates for help when needed.
+
